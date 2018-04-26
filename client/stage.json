@@ -1,0 +1,5552 @@
+{
+  "latestPlayoutNotification": "2018-02-16T08:47:07.818",
+  "state": [
+    {
+      "id": "1381226-029A",
+      "name": "Random mix",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.613+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP3": {
+          "plannedStart": "2018-02-15T16:30:00+01:00",
+          "plannedEnd": "2018-02-15T16:55:00+01:00",
+          "channel": "LP3",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T16:30:00.063+01:00",
+              "plannedEnd": "2018-02-15T16:50:18.702+01:00",
+              "timestamp": "2018-02-15T19:50:27.421+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T16:30:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.429+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T16:50:18.702+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.434+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T16:30:00+01:00",
+              "plannedEnd": "2018-02-15T16:55:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.619+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T16:50:18.702+01:00",
+          "started": "2018-02-15T16:30:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T16:50:18.702+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.434+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T16:55:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.613+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1381226-030A",
+      "name": "Random mix",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.304+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP3": {
+          "plannedStart": "2018-02-16T16:30:00+01:00",
+          "plannedEnd": "2018-02-16T16:55:00+01:00",
+          "channel": "LP3",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T16:30:00+01:00",
+              "plannedEnd": "2018-02-16T16:55:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.31+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T16:30:00+01:00",
+            "plannedEnd": "2018-02-16T16:55:00+01:00",
+            "timestamp": "2018-02-15T19:50:35.31+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T16:55:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.304+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1381308-001A",
+      "name": "Motor: Svenska rallyt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.605+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T19:30:06.84+01:00",
+          "plannedEnd": "2018-02-15T20:58:36.84+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T19:30:06.84+01:00",
+              "plannedEnd": "2018-02-15T20:58:36.84+01:00",
+              "timestamp": "2018-02-15T19:50:32.611+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T19:30:02.862+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:36.976+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T20:58:24.422+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T20:58:31.653+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T20:58:24.422+01:00",
+          "started": "2018-02-15T19:30:02.862+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T20:58:24.422+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T20:58:31.653+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T20:58:36.84+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.605+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1381308-002A",
+      "name": "Motor: Svenska rallyt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.758+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T21:45:41.96+01:00",
+          "plannedEnd": "2018-02-16T22:44:11.96+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T21:45:41.96+01:00",
+              "plannedEnd": "2018-02-16T22:44:11.96+01:00",
+              "timestamp": "2018-02-15T19:50:31.772+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T21:45:41.96+01:00",
+            "plannedEnd": "2018-02-16T22:44:11.96+01:00",
+            "timestamp": "2018-02-15T19:50:31.772+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T22:44:11.96+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.758+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1381726-034A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.125+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T22:01:00+01:00",
+          "plannedEnd": "2018-02-15T22:15:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T22:01:00+01:00",
+              "plannedEnd": "2018-02-15T22:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.138+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T22:01:10.182+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:01:10.185+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T22:15:04.983+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:15:04.99+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T22:15:04.983+01:00",
+          "started": "2018-02-15T22:01:10.182+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T22:15:04.983+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T22:15:04.99+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T22:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.125+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1381726-035A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.071+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T21:30:00+01:00",
+          "plannedEnd": "2018-02-16T21:44:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T21:30:00+01:00",
+              "plannedEnd": "2018-02-16T21:44:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.078+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T21:30:00+01:00",
+            "plannedEnd": "2018-02-16T21:44:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.078+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T21:44:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.071+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1381728-046A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.2+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T18:25:00+01:00",
+          "plannedEnd": "2018-02-15T18:30:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:24:45.532+01:00",
+              "plannedEnd": "2018-02-15T18:30:00.063+01:00",
+              "timestamp": "2018-02-15T19:50:26.704+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T18:24:45.532+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.715+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T18:30:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.718+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:25:00+01:00",
+              "plannedEnd": "2018-02-15T18:30:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.206+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T18:30:00.063+01:00",
+          "started": "2018-02-15T18:24:45.532+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T18:30:00.063+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.718+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T18:30:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.2+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1381728-047A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.332+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T18:25:00+01:00",
+          "plannedEnd": "2018-02-16T18:30:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T18:25:00+01:00",
+              "plannedEnd": "2018-02-16T18:30:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.336+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T18:25:00+01:00",
+            "plannedEnd": "2018-02-16T18:30:00+01:00",
+            "timestamp": "2018-02-15T19:50:35.336+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T18:30:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.332+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382287-030W",
+      "name": "Morgonshowen",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-16T04:30:28.995+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVTB": {
+          "plannedStart": "2018-02-16T06:30:00+01:00",
+          "plannedEnd": "2018-02-16T08:00:00+01:00",
+          "channel": "SVTB",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.028+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.316+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.929+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.509+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.958+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.943+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.956+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.096+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.777+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.654+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.666+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.682+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.696+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.702+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.719+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.726+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.736+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.747+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.76+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.773+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.856+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.869+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.876+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.906+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.913+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.937+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:29.001+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T06:30:00+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:30:00+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:00:00+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:00:00.003+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:00:00+01:00",
+          "started": "2018-02-16T06:30:00+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:00:00+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:00:00.003+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE_ON_TAPE",
+      "lastPlannedEnd": "2018-02-16T08:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-16T04:30:28.995+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382632-046UROT",
+      "name": "UR Samtiden",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.348+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVTK": {
+          "plannedStart": "2018-02-15T14:00:00+01:00",
+          "plannedEnd": "2018-02-15T16:58:07+01:00",
+          "channel": "SVTK",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T14:00:00.063+01:00",
+              "plannedEnd": "2018-02-15T16:58:07.065+01:00",
+              "timestamp": "2018-02-15T19:50:27.372+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T14:00:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.375+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T16:58:07.065+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.378+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T14:00:00+01:00",
+              "plannedEnd": "2018-02-15T16:58:07+01:00",
+              "timestamp": "2018-02-15T19:50:35.384+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T16:58:07.065+01:00",
+          "started": "2018-02-15T14:00:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T16:58:07.065+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.378+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T16:58:07+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.348+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382632-047UROT",
+      "name": "UR Samtiden",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:30.944+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVTK": {
+          "plannedStart": "2018-02-16T14:00:00+01:00",
+          "plannedEnd": "2018-02-16T16:57:41+01:00",
+          "channel": "SVTK",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:00:00+01:00",
+              "plannedEnd": "2018-02-16T16:57:41+01:00",
+              "timestamp": "2018-02-15T19:50:31.012+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T14:00:00+01:00",
+            "plannedEnd": "2018-02-16T16:57:41+01:00",
+            "timestamp": "2018-02-15T19:50:31.012+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T16:57:41+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:30.944+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382667-034A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.949+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:05:00+01:00",
+          "plannedEnd": "2018-02-16T07:08:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:05:00+01:00",
+              "plannedEnd": "2018-02-16T07:08:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.954+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:05:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:05:00.073+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:08:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:08:00.068+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:08:00.062+01:00",
+          "started": "2018-02-16T07:05:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:08:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:08:00.068+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:08:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.949+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382669-034A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.257+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:35:00+01:00",
+          "plannedEnd": "2018-02-16T07:38:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:35:00+01:00",
+              "plannedEnd": "2018-02-16T07:38:00+01:00",
+              "timestamp": "2018-02-15T19:50:34.295+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:35:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:35:00.069+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:38:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:38:00.066+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:38:00.062+01:00",
+          "started": "2018-02-16T07:35:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:38:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:38:00.066+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:38:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.257+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382670-034A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.881+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:05:00+01:00",
+          "plannedEnd": "2018-02-16T08:08:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:05:00+01:00",
+              "plannedEnd": "2018-02-16T08:08:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.885+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:05:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:05:00.07+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:08:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:08:00.067+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:08:00.062+01:00",
+          "started": "2018-02-16T08:05:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:08:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:08:00.067+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:08:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.881+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382671-034A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.588+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:35:00+01:00",
+          "plannedEnd": "2018-02-16T08:38:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:35:00+01:00",
+              "plannedEnd": "2018-02-16T08:38:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.603+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:35:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:35:00.075+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:38:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:38:00.065+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:38:00.062+01:00",
+          "started": "2018-02-16T08:35:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:38:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:38:00.065+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:38:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.588+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382672-033A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.053+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T09:05:00+01:00",
+          "plannedEnd": "2018-02-15T09:08:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T09:05:00.062+01:00",
+              "plannedEnd": "2018-02-15T09:08:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.963+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T09:05:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.969+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T09:08:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.975+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T09:05:00+01:00",
+              "plannedEnd": "2018-02-15T09:08:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.062+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T09:08:00.062+01:00",
+          "started": "2018-02-15T09:05:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T09:08:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.975+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T09:08:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.053+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382672-034A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.669+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T09:05:00+01:00",
+          "plannedEnd": "2018-02-16T09:08:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T09:05:00+01:00",
+              "plannedEnd": "2018-02-16T09:08:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.68+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T09:05:00+01:00",
+            "plannedEnd": "2018-02-16T09:08:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.68+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T09:08:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.669+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382673-006A",
+      "name": "Opinion live",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.246+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T22:00:54.24+01:00",
+          "plannedEnd": "2018-02-15T22:44:24.24+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T22:00:54.24+01:00",
+              "plannedEnd": "2018-02-15T22:44:24.24+01:00",
+              "timestamp": "2018-02-15T19:50:33.252+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T22:01:05.782+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:01:05.786+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T22:44:37.902+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:44:37.906+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T22:44:37.902+01:00",
+          "started": "2018-02-15T22:01:05.782+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T22:44:37.902+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T22:44:37.906+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T22:44:24.24+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.246+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382676-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.026+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T06:00:00+01:00",
+          "plannedEnd": "2018-02-16T06:15:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:00:00+01:00",
+              "plannedEnd": "2018-02-16T06:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.034+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T06:00:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:00:00.066+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T06:13:20.705+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:13:20.707+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T06:13:20.705+01:00",
+          "started": "2018-02-16T06:00:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T06:13:20.705+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T06:13:20.707+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T06:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.026+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382677-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.974+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T06:16:00+01:00",
+          "plannedEnd": "2018-02-16T06:30:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:16:00+01:00",
+              "plannedEnd": "2018-02-16T06:30:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.98+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T06:15:03.766+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:15:03.884+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T06:29:55.119+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:29:55.123+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T06:29:55.119+01:00",
+          "started": "2018-02-16T06:15:03.766+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T06:29:55.119+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T06:29:55.123+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T06:30:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.974+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382678-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T22:54:49.877+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T06:35:00+01:00",
+          "plannedEnd": "2018-02-16T06:47:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:35:00+01:00",
+              "plannedEnd": "2018-02-16T06:45:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.794+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:35:00+01:00",
+              "plannedEnd": "2018-02-16T06:47:00+01:00",
+              "timestamp": "2018-02-15T22:54:49.881+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T06:34:52.816+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:34:52.826+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:00:10+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:00:10.005+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:00:10+01:00",
+          "started": "2018-02-16T06:34:52.816+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:00:10+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:00:10.005+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T06:47:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T22:54:49.877+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382680-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.071+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:08:00+01:00",
+          "plannedEnd": "2018-02-16T07:15:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:08:00+01:00",
+              "plannedEnd": "2018-02-16T07:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.076+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:08:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:08:00.073+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:15:44.128+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:15:44.13+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:15:44.128+01:00",
+          "started": "2018-02-16T07:08:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:15:44.128+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:15:44.13+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.071+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382681-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:32:42.837+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:16:00+01:00",
+          "plannedEnd": "2018-02-16T07:17:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:16:00+01:00",
+              "plannedEnd": "2018-02-16T07:30:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.951+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:16:00+01:00",
+              "plannedEnd": "2018-02-16T07:17:00+01:00",
+              "timestamp": "2018-02-15T23:32:42.844+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:17:12.416+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:17:12.423+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:29:59.558+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:29:59.561+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:29:59.558+01:00",
+          "started": "2018-02-16T07:17:12.416+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:29:59.558+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:29:59.561+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:17:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:32:42.837+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382682-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.635+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:38:00+01:00",
+          "plannedEnd": "2018-02-16T07:45:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:38:00+01:00",
+              "plannedEnd": "2018-02-16T07:45:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.641+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:38:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:38:00.073+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:45:31.21+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:45:31.212+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:45:31.21+01:00",
+          "started": "2018-02-16T07:38:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:45:31.21+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:45:31.212+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:45:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.635+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382683-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.086+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:46:00+01:00",
+          "plannedEnd": "2018-02-16T08:00:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:46:00+01:00",
+              "plannedEnd": "2018-02-16T08:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.092+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:47:05.587+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:47:05.594+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:00:06.284+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:00:06.285+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:00:06.284+01:00",
+          "started": "2018-02-16T07:47:05.587+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:00:06.284+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:00:06.285+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.086+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382684-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.642+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:08:00+01:00",
+          "plannedEnd": "2018-02-16T08:15:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:08:00+01:00",
+              "plannedEnd": "2018-02-16T08:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.65+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:08:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:08:00.071+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:15:05.411+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:15:05.414+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:15:05.411+01:00",
+          "started": "2018-02-16T08:08:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:15:05.411+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:15:05.414+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.642+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382685-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:36:22.812+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:16:00+01:00",
+          "plannedEnd": "2018-02-16T08:17:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:16:00+01:00",
+              "plannedEnd": "2018-02-16T08:30:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.434+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:16:00+01:00",
+              "plannedEnd": "2018-02-16T08:17:00+01:00",
+              "timestamp": "2018-02-15T23:36:22.818+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:16:39.088+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:16:39.097+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:29:56.588+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:29:56.591+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:29:56.588+01:00",
+          "started": "2018-02-16T08:16:39.088+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:29:56.588+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:29:56.591+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:17:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:36:22.812+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382686-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.171+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:38:00+01:00",
+          "plannedEnd": "2018-02-16T08:45:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:38:00+01:00",
+              "plannedEnd": "2018-02-16T08:45:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.176+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:38:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:38:00.072+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:45:24.663+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:45:24.665+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:45:24.663+01:00",
+          "started": "2018-02-16T08:38:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:45:24.663+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:45:24.665+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:45:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.171+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382687-033A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.109+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T08:46:00+01:00",
+          "plannedEnd": "2018-02-15T09:00:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T08:46:25.67+01:00",
+              "plannedEnd": "2018-02-15T08:59:57.383+01:00",
+              "timestamp": "2018-02-15T19:50:28.054+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T08:46:25.67+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:28.058+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T08:59:57.383+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:28.127+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T08:46:00+01:00",
+              "plannedEnd": "2018-02-15T09:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.116+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T08:59:57.383+01:00",
+          "started": "2018-02-15T08:46:25.67+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T08:59:57.383+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:28.127+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T09:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.109+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382687-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.131+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:46:00+01:00",
+          "plannedEnd": "2018-02-16T09:00:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:46:00+01:00",
+              "plannedEnd": "2018-02-16T09:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.149+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:47:07.807+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:47:07.816+01:00",
+              "prio": 40
+            }
+          ],
+          "ended": null,
+          "started": "2018-02-16T08:47:07.807+01:00",
+          "state": {
+            "stateName": "Running",
+            "started": "2018-02-16T08:47:07.807+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:47:07.816+01:00",
+            "prio": 40
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T09:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.131+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382688-033A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.778+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T09:08:00+01:00",
+          "plannedEnd": "2018-02-15T09:10:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T09:08:00.062+01:00",
+              "plannedEnd": "2018-02-15T09:10:07.302+01:00",
+              "timestamp": "2018-02-15T19:50:27.933+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T09:08:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.937+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T09:10:07.302+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.952+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T09:08:00+01:00",
+              "plannedEnd": "2018-02-15T09:10:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.784+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T09:10:07.302+01:00",
+          "started": "2018-02-15T09:08:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T09:10:07.302+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.952+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T09:10:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.778+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382688-034A",
+      "name": "Morgonstudion",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.786+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T09:08:00+01:00",
+          "plannedEnd": "2018-02-16T09:10:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T09:08:00+01:00",
+              "plannedEnd": "2018-02-16T09:10:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.111+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T09:08:00+01:00",
+            "plannedEnd": "2018-02-16T09:10:00+01:00",
+            "timestamp": "2018-02-15T19:50:35.111+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T09:10:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.786+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382706-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.989+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T06:30:00+01:00",
+          "plannedEnd": "2018-02-16T06:35:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:30:00+01:00",
+              "plannedEnd": "2018-02-16T06:35:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.011+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T06:29:55.119+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:29:55.135+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T06:34:52.816+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:34:52.821+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T06:34:52.816+01:00",
+          "started": "2018-02-16T06:29:55.119+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T06:34:52.816+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T06:34:52.821+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T06:35:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.989+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382707-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.52+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:00:00+01:00",
+          "plannedEnd": "2018-02-16T07:05:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:00:00+01:00",
+              "plannedEnd": "2018-02-16T07:05:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.534+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:00:10+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:00:10.012+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:05:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:05:00.065+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:05:00.063+01:00",
+          "started": "2018-02-16T07:00:10+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:05:00.063+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:05:00.065+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:05:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.52+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382708-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.525+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:30:00+01:00",
+          "plannedEnd": "2018-02-16T07:35:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:30:00+01:00",
+              "plannedEnd": "2018-02-16T07:35:00+01:00",
+              "timestamp": "2018-02-15T19:50:34.567+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:29:59.558+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:29:59.567+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:35:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:35:00.066+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:35:00.062+01:00",
+          "started": "2018-02-16T07:29:59.558+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:35:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:35:00.066+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:35:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.525+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382709-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.75+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:00:00+01:00",
+          "plannedEnd": "2018-02-16T08:05:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:00:00+01:00",
+              "plannedEnd": "2018-02-16T08:05:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.757+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:00:06.284+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:00:06.305+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:05:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:05:00.065+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:05:00.062+01:00",
+          "started": "2018-02-16T08:00:06.284+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:05:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:05:00.065+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:05:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.75+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382710-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.744+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:30:00+01:00",
+          "plannedEnd": "2018-02-16T08:35:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:30:00+01:00",
+              "plannedEnd": "2018-02-16T08:35:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.749+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:29:56.588+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:29:56.598+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:35:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:35:00.065+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:35:00.062+01:00",
+          "started": "2018-02-16T08:29:56.588+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:35:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:35:00.065+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:35:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.744+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382711-033A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.706+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T09:00:00+01:00",
+          "plannedEnd": "2018-02-15T09:05:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T08:59:57.383+01:00",
+              "plannedEnd": "2018-02-15T09:05:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:28.004+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T08:59:57.383+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:28.025+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T09:05:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:28.035+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T09:00:00+01:00",
+              "plannedEnd": "2018-02-15T09:05:00+01:00",
+              "timestamp": "2018-02-15T19:50:34.768+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T09:05:00.062+01:00",
+          "started": "2018-02-15T08:59:57.383+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T09:05:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:28.035+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T09:05:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.706+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382711-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.812+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T09:00:00+01:00",
+          "plannedEnd": "2018-02-16T09:05:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T09:00:00+01:00",
+              "plannedEnd": "2018-02-16T09:05:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.82+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T09:00:00+01:00",
+            "plannedEnd": "2018-02-16T09:05:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.82+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T09:05:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.812+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382712-034A",
+      "name": "Väder",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.893+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T06:15:00+01:00",
+          "plannedEnd": "2018-02-16T06:16:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:15:00+01:00",
+              "plannedEnd": "2018-02-16T06:16:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.909+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T06:13:20.705+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:13:20.712+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T06:15:03.766+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T06:15:03.768+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T06:15:03.766+01:00",
+          "started": "2018-02-16T06:13:20.705+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T06:15:03.766+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T06:15:03.768+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T06:16:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.893+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382714-034A",
+      "name": "Väder",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.264+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:15:00+01:00",
+          "plannedEnd": "2018-02-16T07:16:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:15:00+01:00",
+              "plannedEnd": "2018-02-16T07:16:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.27+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:15:44.128+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:15:44.143+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:17:12.416+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:17:12.418+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:17:12.416+01:00",
+          "started": "2018-02-16T07:15:44.128+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:17:12.416+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:17:12.418+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:16:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.264+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382715-034A",
+      "name": "Väder",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.098+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:45:00+01:00",
+          "plannedEnd": "2018-02-16T07:46:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:45:00+01:00",
+              "plannedEnd": "2018-02-16T07:46:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.109+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T07:45:31.21+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:45:31.229+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T07:47:05.587+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T07:47:05.59+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T07:47:05.587+01:00",
+          "started": "2018-02-16T07:45:31.21+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T07:47:05.587+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T07:47:05.59+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:46:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.098+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382716-034A",
+      "name": "Väder",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.328+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:15:00+01:00",
+          "plannedEnd": "2018-02-16T08:16:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:15:00+01:00",
+              "plannedEnd": "2018-02-16T08:16:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.334+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:15:05.411+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:15:05.421+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:16:39.088+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:16:39.09+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:16:39.088+01:00",
+          "started": "2018-02-16T08:15:05.411+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:16:39.088+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:16:39.09+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:16:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.328+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382717-034A",
+      "name": "Väder",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.701+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:45:00+01:00",
+          "plannedEnd": "2018-02-16T08:46:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:45:00+01:00",
+              "plannedEnd": "2018-02-16T08:46:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.716+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-16T08:45:24.663+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:45:24.672+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-16T08:47:07.807+01:00",
+              "note": "",
+              "timestamp": "2018-02-16T08:47:07.809+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-16T08:47:07.807+01:00",
+          "started": "2018-02-16T08:45:24.663+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-16T08:47:07.807+01:00",
+            "note": "",
+            "timestamp": "2018-02-16T08:47:07.809+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:46:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.701+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382754-029A",
+      "name": "Sverige idag",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.484+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T17:30:00+01:00",
+          "plannedEnd": "2018-02-15T17:58:30+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:30:00.062+01:00",
+              "plannedEnd": "2018-02-15T17:58:29.862+01:00",
+              "timestamp": "2018-02-15T19:50:26.942+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T17:30:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.945+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T17:58:29.862+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.948+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:30:00+01:00",
+              "plannedEnd": "2018-02-15T17:58:30+01:00",
+              "timestamp": "2018-02-15T19:50:33.495+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T17:58:29.862+01:00",
+          "started": "2018-02-15T17:30:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T17:58:29.862+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.948+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T17:58:30+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.484+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382754-030A",
+      "name": "Sverige idag",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.467+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T17:30:00+01:00",
+          "plannedEnd": "2018-02-16T17:58:30+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T17:30:00+01:00",
+              "plannedEnd": "2018-02-16T17:58:30+01:00",
+              "timestamp": "2018-02-15T19:50:33.477+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T17:30:00+01:00",
+            "plannedEnd": "2018-02-16T17:58:30+01:00",
+            "timestamp": "2018-02-15T19:50:33.477+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T17:58:30+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.467+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382760-034A",
+      "name": "Oddasat",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.73+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T17:30:00+01:00",
+          "plannedEnd": "2018-02-15T17:44:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:30:00.062+01:00",
+              "plannedEnd": "2018-02-15T17:44:00.063+01:00",
+              "timestamp": "2018-02-15T19:50:27.058+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T17:30:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.062+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T17:44:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.066+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:30:00+01:00",
+              "plannedEnd": "2018-02-15T17:44:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.736+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T17:44:00.063+01:00",
+          "started": "2018-02-15T17:30:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T17:44:00.063+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.066+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T17:44:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.73+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382760-035A",
+      "name": "Oddasat",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.099+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T17:30:00+01:00",
+          "plannedEnd": "2018-02-16T17:44:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T17:30:00+01:00",
+              "plannedEnd": "2018-02-16T17:44:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.104+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T17:30:00+01:00",
+            "plannedEnd": "2018-02-16T17:44:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.104+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T17:44:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.099+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382761-034A",
+      "name": "Nyhetstecken",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.318+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T17:20:00+01:00",
+          "plannedEnd": "2018-02-15T17:29:45+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:20:00.062+01:00",
+              "plannedEnd": "2018-02-15T17:29:45.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.211+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T17:20:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.259+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T17:29:45.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.272+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:20:00+01:00",
+              "plannedEnd": "2018-02-15T17:29:45+01:00",
+              "timestamp": "2018-02-15T19:50:35.324+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T17:29:45.062+01:00",
+          "started": "2018-02-15T17:20:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T17:29:45.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.272+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T17:29:45+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.318+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382761-035A",
+      "name": "Nyhetstecken",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.931+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T17:20:00+01:00",
+          "plannedEnd": "2018-02-16T17:29:45+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T17:20:00+01:00",
+              "plannedEnd": "2018-02-16T17:29:45+01:00",
+              "timestamp": "2018-02-15T19:50:31.937+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T17:20:00+01:00",
+            "plannedEnd": "2018-02-16T17:29:45+01:00",
+            "timestamp": "2018-02-15T19:50:31.937+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T17:29:45+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.931+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382765-034A",
+      "name": "Uutiset",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.132+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T17:45:00+01:00",
+          "plannedEnd": "2018-02-15T17:58:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:45:00.062+01:00",
+              "plannedEnd": "2018-02-15T17:58:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:26.968+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T17:45:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.983+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T17:58:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.015+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:45:00+01:00",
+              "plannedEnd": "2018-02-15T17:58:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.143+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T17:58:00.062+01:00",
+          "started": "2018-02-15T17:45:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T17:58:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.015+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T17:58:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.132+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382765-035A",
+      "name": "Uutiset",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.273+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T17:45:00+01:00",
+          "plannedEnd": "2018-02-16T17:58:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T17:45:00+01:00",
+              "plannedEnd": "2018-02-16T17:58:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.282+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T17:45:00+01:00",
+            "plannedEnd": "2018-02-16T17:58:00+01:00",
+            "timestamp": "2018-02-15T19:50:33.282+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T17:58:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.273+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382766-028A",
+      "name": "Nyhetssammanfattning",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.475+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T21:55:00+01:00",
+          "plannedEnd": "2018-02-15T22:00:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T21:55:00+01:00",
+              "plannedEnd": "2018-02-15T22:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.511+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T21:55:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T21:55:00.073+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T22:00:10.204+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:00:10.208+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T22:00:10.204+01:00",
+          "started": "2018-02-15T21:55:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T22:00:10.204+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T22:00:10.208+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T22:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.475+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382767-028A",
+      "name": "Aktuellt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.158+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T20:59:57+01:00",
+          "plannedEnd": "2018-02-15T21:38:57+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T20:59:57+01:00",
+              "plannedEnd": "2018-02-15T21:38:57+01:00",
+              "timestamp": "2018-02-15T19:50:33.167+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T20:59:57.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T20:59:57.065+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T21:39:08.845+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T21:39:08.848+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T21:39:08.845+01:00",
+          "started": "2018-02-15T20:59:57.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T21:39:08.845+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T21:39:08.848+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T21:38:57+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.158+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382769-028A",
+      "name": "Go'kväll",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.417+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T18:45:09.56+01:00",
+          "plannedEnd": "2018-02-15T19:28:39.56+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:45:09.622+01:00",
+              "plannedEnd": "2018-02-15T19:28:39.462+01:00",
+              "timestamp": "2018-02-15T19:50:25.845+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T18:45:09.622+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.497+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T19:28:39.462+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.511+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:45:09.56+01:00",
+              "plannedEnd": "2018-02-15T19:28:39.56+01:00",
+              "timestamp": "2018-02-15T19:50:31.424+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T19:28:39.462+01:00",
+          "started": "2018-02-15T18:45:09.622+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T19:28:39.462+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.511+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T19:28:39.56+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.417+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382769-029A",
+      "name": "Go'kväll",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.229+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T18:45:00.56+01:00",
+          "plannedEnd": "2018-02-16T19:28:30.56+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T18:45:00.56+01:00",
+              "plannedEnd": "2018-02-16T19:28:30.56+01:00",
+              "timestamp": "2018-02-15T19:50:31.239+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T18:45:00.56+01:00",
+            "plannedEnd": "2018-02-16T19:28:30.56+01:00",
+            "timestamp": "2018-02-15T19:50:31.239+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T19:28:30.56+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.229+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382910-007A",
+      "name": "Väder",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.993+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T21:23:00+01:00",
+          "plannedEnd": "2018-02-16T21:25:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T21:23:00+01:00",
+              "plannedEnd": "2018-02-16T21:25:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.998+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T21:23:00+01:00",
+            "plannedEnd": "2018-02-16T21:25:00+01:00",
+            "timestamp": "2018-02-15T19:50:35.998+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T21:25:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.993+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1382918-007A",
+      "name": "Aktuellt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:39:06.953+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T20:59:57+01:00",
+          "plannedEnd": "2018-02-16T21:18:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T20:59:57+01:00",
+              "plannedEnd": "2018-02-16T21:17:57+01:00",
+              "timestamp": "2018-02-15T19:50:33.413+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T20:59:57+01:00",
+              "plannedEnd": "2018-02-16T21:18:00+01:00",
+              "timestamp": "2018-02-15T23:39:06.956+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T20:59:57+01:00",
+            "plannedEnd": "2018-02-16T21:18:00+01:00",
+            "timestamp": "2018-02-15T23:39:06.956+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T21:18:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:39:06.953+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382970-034A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.601+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T18:30:00+01:00",
+          "plannedEnd": "2018-02-15T18:43:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:30:00.063+01:00",
+              "plannedEnd": "2018-02-15T18:43:00.063+01:00",
+              "timestamp": "2018-02-15T19:50:26.647+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T18:30:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.654+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T18:43:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.672+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:30:00+01:00",
+              "plannedEnd": "2018-02-15T18:43:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.608+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T18:43:00.063+01:00",
+          "started": "2018-02-15T18:30:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T18:43:00.063+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.672+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T18:43:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.601+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382970-035A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.829+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T18:30:00+01:00",
+          "plannedEnd": "2018-02-16T18:43:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T18:30:00+01:00",
+              "plannedEnd": "2018-02-16T18:43:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.834+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T18:30:00+01:00",
+            "plannedEnd": "2018-02-16T18:43:00+01:00",
+            "timestamp": "2018-02-15T19:50:36.834+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T18:43:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.829+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382972-040A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.618+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T19:55:00+01:00",
+          "plannedEnd": "2018-02-15T19:59:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T19:55:00+01:00",
+              "plannedEnd": "2018-02-15T19:59:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.626+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T19:55:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:55:00.079+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T19:59:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:59:00.065+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T19:59:00.062+01:00",
+          "started": "2018-02-15T19:55:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T19:59:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:59:00.065+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T19:59:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.618+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382972-041A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.158+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T19:55:00+01:00",
+          "plannedEnd": "2018-02-16T19:59:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T19:55:00+01:00",
+              "plannedEnd": "2018-02-16T19:59:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.205+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T19:55:00+01:00",
+            "plannedEnd": "2018-02-16T19:59:00+01:00",
+            "timestamp": "2018-02-15T19:50:35.205+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T19:59:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.158+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382974-028A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.388+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T21:46:00+01:00",
+          "plannedEnd": "2018-02-15T21:55:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T21:46:00+01:00",
+              "plannedEnd": "2018-02-15T21:55:00+01:00",
+              "timestamp": "2018-02-15T19:50:33.395+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T21:46:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T21:46:00.075+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T21:55:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T21:55:00.065+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T21:55:00.062+01:00",
+          "started": "2018-02-15T21:46:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T21:55:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T21:55:00.065+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T21:55:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:33.388+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382975-009A",
+      "name": "Lokala nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.61+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T21:25:00+01:00",
+          "plannedEnd": "2018-02-16T21:30:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T21:25:00+01:00",
+              "plannedEnd": "2018-02-16T21:30:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.619+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T21:25:00+01:00",
+            "plannedEnd": "2018-02-16T21:30:00+01:00",
+            "timestamp": "2018-02-15T19:50:36.619+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T21:30:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.61+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382976-028A",
+      "name": "Kulturnyheterna",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.348+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T21:39:00+01:00",
+          "plannedEnd": "2018-02-15T21:46:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T21:39:00+01:00",
+              "plannedEnd": "2018-02-15T21:46:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.353+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T21:39:08.845+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T21:39:08.859+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T21:46:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T21:46:00.066+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T21:46:00.062+01:00",
+          "started": "2018-02-15T21:39:08.845+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T21:46:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T21:46:00.066+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T21:46:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.348+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382987-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.627+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T18:00:00+01:00",
+          "plannedEnd": "2018-02-15T18:13:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:00:00.062+01:00",
+              "plannedEnd": "2018-02-15T18:12:57.163+01:00",
+              "timestamp": "2018-02-15T19:50:26.848+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T18:00:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.87+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T18:12:57.163+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.881+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:00:00+01:00",
+              "plannedEnd": "2018-02-15T18:13:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.633+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T18:12:57.163+01:00",
+          "started": "2018-02-15T18:00:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T18:12:57.163+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.881+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T18:13:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.627+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382987-035A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.256+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T18:00:00+01:00",
+          "plannedEnd": "2018-02-16T18:13:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T18:00:00+01:00",
+              "plannedEnd": "2018-02-16T18:13:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.538+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T18:00:00+01:00",
+            "plannedEnd": "2018-02-16T18:13:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.538+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T18:13:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.256+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382988-040A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.009+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T19:30:00+01:00",
+          "plannedEnd": "2018-02-15T19:55:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T19:30:00+01:00",
+              "plannedEnd": "2018-02-15T19:55:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.015+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T19:30:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:36.972+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T19:55:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:55:00.069+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T19:55:00.062+01:00",
+          "started": "2018-02-15T19:30:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T19:55:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:55:00.069+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T19:55:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.009+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382988-041A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.517+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T19:30:00+01:00",
+          "plannedEnd": "2018-02-16T19:55:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T19:30:00+01:00",
+              "plannedEnd": "2018-02-16T19:55:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.523+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T19:30:00+01:00",
+            "plannedEnd": "2018-02-16T19:55:00+01:00",
+            "timestamp": "2018-02-15T19:50:31.523+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T19:55:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.517+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382989-046A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.213+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T22:45:48.24+01:00",
+          "plannedEnd": "2018-02-15T22:50:18.24+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T22:45:48.24+01:00",
+              "plannedEnd": "2018-02-15T22:50:18.24+01:00",
+              "timestamp": "2018-02-15T19:50:31.22+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T22:46:01.902+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:46:01.905+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T22:50:38.422+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T22:50:38.425+01:00",
+              "prio": 50
+            }
+          ],
+          "ended": "2018-02-15T22:50:38.422+01:00",
+          "started": "2018-02-15T22:46:01.902+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T22:50:38.422+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T22:50:38.425+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T22:50:18.24+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.213+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382989-047A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.358+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T23:10:33.44+01:00",
+          "plannedEnd": "2018-02-16T23:15:03.44+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T23:10:33.44+01:00",
+              "plannedEnd": "2018-02-16T23:15:03.44+01:00",
+              "timestamp": "2018-02-15T19:50:31.369+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T23:10:33.44+01:00",
+            "plannedEnd": "2018-02-16T23:15:03.44+01:00",
+            "timestamp": "2018-02-15T19:50:31.369+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T23:15:03.44+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.358+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382994-034A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.149+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T12:00:00+01:00",
+          "plannedEnd": "2018-02-15T12:03:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T12:00:00.062+01:00",
+              "plannedEnd": "2018-02-15T12:03:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.791+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T12:00:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.801+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T12:03:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.804+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T12:00:00+01:00",
+              "plannedEnd": "2018-02-15T12:03:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.156+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T12:03:00.062+01:00",
+          "started": "2018-02-15T12:00:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T12:03:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.804+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T12:03:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.149+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382994-035A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.833+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T12:00:00+01:00",
+          "plannedEnd": "2018-02-16T12:03:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T12:00:00+01:00",
+              "plannedEnd": "2018-02-16T12:03:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.912+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T12:00:00+01:00",
+            "plannedEnd": "2018-02-16T12:03:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.912+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T12:03:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.833+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382996-046A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.338+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T16:00:00+01:00",
+          "plannedEnd": "2018-02-15T16:04:30+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T16:00:00.082+01:00",
+              "plannedEnd": "2018-02-15T16:04:30.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.486+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T16:00:00.082+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.491+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T16:04:30.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.504+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T16:00:00+01:00",
+              "plannedEnd": "2018-02-15T16:04:30+01:00",
+              "timestamp": "2018-02-15T19:50:31.343+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T16:04:30.062+01:00",
+          "started": "2018-02-15T16:00:00.082+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T16:04:30.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.504+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T16:04:30+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.338+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382996-047A",
+      "name": "Rapport",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.02+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T16:00:00+01:00",
+          "plannedEnd": "2018-02-16T16:04:30+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T16:00:00+01:00",
+              "plannedEnd": "2018-02-16T16:04:30+01:00",
+              "timestamp": "2018-02-15T19:50:36.027+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T16:00:00+01:00",
+            "plannedEnd": "2018-02-16T16:04:30+01:00",
+            "timestamp": "2018-02-15T19:50:36.027+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T16:04:30+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.02+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1382998-007A",
+      "name": "Kulturnyheterna",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.394+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T21:18:00+01:00",
+          "plannedEnd": "2018-02-16T21:23:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T21:18:00+01:00",
+              "plannedEnd": "2018-02-16T21:23:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.4+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T21:18:00+01:00",
+            "plannedEnd": "2018-02-16T21:23:00+01:00",
+            "timestamp": "2018-02-15T19:50:31.4+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T21:23:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.394+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1383036-024A",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.599+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T08:59:00+01:00",
+          "plannedEnd": "2018-02-15T12:00:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T08:59:00.062+01:00",
+              "plannedEnd": "2018-02-15T12:00:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.842+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T08:59:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.848+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T12:00:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.872+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T08:59:00+01:00",
+              "plannedEnd": "2018-02-15T12:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.605+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T12:00:00.062+01:00",
+          "started": "2018-02-15T08:59:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T12:00:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.872+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T12:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.599+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383036-024A2",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.189+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T12:03:00+01:00",
+          "plannedEnd": "2018-02-15T14:00:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T12:03:00.062+01:00",
+              "plannedEnd": "2018-02-15T14:00:00.063+01:00",
+              "timestamp": "2018-02-15T19:50:27.77+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T12:03:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.776+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T14:00:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.78+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T12:03:00+01:00",
+              "plannedEnd": "2018-02-15T14:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.2+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T14:00:00.063+01:00",
+          "started": "2018-02-15T12:03:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T14:00:00.063+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.78+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T14:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.189+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383036-024A3",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.974+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T15:15:00+01:00",
+          "plannedEnd": "2018-02-15T16:00:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T15:15:00.062+01:00",
+              "plannedEnd": "2018-02-15T16:00:00.082+01:00",
+              "timestamp": "2018-02-15T19:50:27.534+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T15:15:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.545+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T16:00:00.082+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.596+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T15:15:00+01:00",
+              "plannedEnd": "2018-02-15T16:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.982+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T16:00:00.082+01:00",
+          "started": "2018-02-15T15:15:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T16:00:00.082+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.596+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T16:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.974+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383036-024A4",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.388+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T16:04:30+01:00",
+          "plannedEnd": "2018-02-15T16:15:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T16:04:30.062+01:00",
+              "plannedEnd": "2018-02-15T16:15:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.443+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T16:04:30.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.451+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T16:15:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.453+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T16:04:30+01:00",
+              "plannedEnd": "2018-02-15T16:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.396+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T16:15:00.062+01:00",
+          "started": "2018-02-15T16:04:30.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T16:15:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.453+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T16:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.388+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383036-025A",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:28:16.787+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T08:59:02+01:00",
+          "plannedEnd": "2018-02-16T12:00:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:59:02+01:00",
+              "plannedEnd": "2018-02-16T12:00:02+01:00",
+              "timestamp": "2018-02-15T19:50:36.897+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:59:02+01:00",
+              "plannedEnd": "2018-02-16T12:00:00+01:00",
+              "timestamp": "2018-02-15T23:28:16.791+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T08:59:02+01:00",
+            "plannedEnd": "2018-02-16T12:00:00+01:00",
+            "timestamp": "2018-02-15T23:28:16.791+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T12:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:28:16.787+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383036-025A2",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.935+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T12:03:00+01:00",
+          "plannedEnd": "2018-02-16T16:00:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T12:03:00+01:00",
+              "plannedEnd": "2018-02-16T16:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.942+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T12:03:00+01:00",
+            "plannedEnd": "2018-02-16T16:00:00+01:00",
+            "timestamp": "2018-02-15T19:50:36.942+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T16:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.935+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383036-025A3",
+      "name": "Forum",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:30.85+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-16T16:04:30+01:00",
+          "plannedEnd": "2018-02-16T16:15:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T16:04:30+01:00",
+              "plannedEnd": "2018-02-16T16:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:30.857+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T16:04:30+01:00",
+            "plannedEnd": "2018-02-16T16:15:00+01:00",
+            "timestamp": "2018-02-15T19:50:30.857+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T16:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:30.85+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383037-005A",
+      "name": "Forum: Riksdagens frågestund",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.914+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVT2": {
+          "plannedStart": "2018-02-15T14:00:00+01:00",
+          "plannedEnd": "2018-02-15T15:15:00+01:00",
+          "channel": "SVT2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T14:00:00.063+01:00",
+              "plannedEnd": "2018-02-15T15:15:00.062+01:00",
+              "timestamp": "2018-02-15T19:50:27.647+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T14:00:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.676+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T15:15:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.704+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T14:00:00+01:00",
+              "plannedEnd": "2018-02-15T15:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.925+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T15:15:00.062+01:00",
+          "started": "2018-02-15T14:00:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T15:15:00.062+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.704+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T15:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.914+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383599-029A",
+      "name": "Kulturnyheterna",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.048+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-15T18:13:00+01:00",
+          "plannedEnd": "2018-02-15T18:25:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:12:57.163+01:00",
+              "plannedEnd": "2018-02-15T18:24:45.532+01:00",
+              "timestamp": "2018-02-15T19:50:26.768+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T18:12:57.163+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.782+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T18:24:45.532+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.799+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:13:00+01:00",
+              "plannedEnd": "2018-02-15T18:25:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.056+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T18:24:45.532+01:00",
+          "started": "2018-02-15T18:12:57.163+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T18:24:45.532+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.799+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T18:25:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.048+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1383599-030A",
+      "name": "Kulturnyheterna",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.151+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T18:13:00+01:00",
+          "plannedEnd": "2018-02-16T18:25:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T18:13:00+01:00",
+              "plannedEnd": "2018-02-16T18:25:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.158+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T18:13:00+01:00",
+            "plannedEnd": "2018-02-16T18:25:00+01:00",
+            "timestamp": "2018-02-15T19:50:31.158+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T18:25:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.151+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1383801-005URSD",
+      "name": "Lilla Aktuellt skola",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.739+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP3": {
+          "plannedStart": "2018-02-16T10:00:00+01:00",
+          "plannedEnd": "2018-02-16T10:15:00+01:00",
+          "channel": "LP3",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T10:00:00+01:00",
+              "plannedEnd": "2018-02-16T10:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.744+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T10:00:00+01:00",
+            "plannedEnd": "2018-02-16T10:15:00+01:00",
+            "timestamp": "2018-02-15T19:50:36.744+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T10:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.739+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1383802-005UROT",
+      "name": "Lilla Aktuellt teckenspråk",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-16T04:37:03.744+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "SVTB": {
+          "plannedStart": "2018-02-16T14:45:00+01:00",
+          "plannedEnd": "2018-02-16T15:00:00+01:00",
+          "channel": "SVTB",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.86+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.586+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.645+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.711+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-16T04:30:28.899+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-16T04:37:03.738+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T14:45:00+01:00",
+              "plannedEnd": "2018-02-16T15:00:00+01:00",
+              "timestamp": "2018-02-16T04:37:03.747+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T14:45:00+01:00",
+            "plannedEnd": "2018-02-16T15:00:00+01:00",
+            "timestamp": "2018-02-16T04:37:03.747+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T15:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-16T04:37:03.744+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1384001-095A",
+      "name": "SVT Nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.901+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP1": {
+          "plannedStart": "2018-02-15T14:00:00+01:00",
+          "plannedEnd": "2018-02-15T15:00:00+01:00",
+          "channel": "LP1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T14:00:00.063+01:00",
+              "plannedEnd": "2018-02-15T14:23:26.782+01:00",
+              "timestamp": "2018-02-15T19:50:27.736+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T14:00:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.751+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T14:23:26.782+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.754+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T14:00:00+01:00",
+              "plannedEnd": "2018-02-15T15:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:36.907+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T14:23:26.782+01:00",
+          "started": "2018-02-15T14:00:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T14:23:26.782+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.754+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T15:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:36.901+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1384001-096A",
+      "name": "SVT Nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.615+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP1": {
+          "plannedStart": "2018-02-15T17:00:00+01:00",
+          "plannedEnd": "2018-02-15T18:00:00+01:00",
+          "channel": "LP1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:00:00.062+01:00",
+              "plannedEnd": "2018-02-15T17:37:25.902+01:00",
+              "timestamp": "2018-02-15T19:50:27.123+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T17:00:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.143+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T17:37:25.902+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.146+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T17:00:00+01:00",
+              "plannedEnd": "2018-02-15T18:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:35.625+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T17:37:25.902+01:00",
+          "started": "2018-02-15T17:00:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T17:37:25.902+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.146+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T18:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:35.615+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1384001-097A",
+      "name": "SVT Nyheter",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.128+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP1": {
+          "plannedStart": "2018-02-15T18:40:00+01:00",
+          "plannedEnd": "2018-02-15T19:40:00+01:00",
+          "channel": "LP1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:40:00.063+01:00",
+              "plannedEnd": "2018-02-15T19:00:32.782+01:00",
+              "timestamp": "2018-02-15T19:50:26.542+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T18:40:00.063+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.55+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T19:00:32.782+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:26.56+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T18:40:00+01:00",
+              "plannedEnd": "2018-02-15T19:40:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.139+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T19:00:32.782+01:00",
+          "started": "2018-02-15T18:40:00.063+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T19:00:32.782+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:26.56+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T19:40:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:31.128+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1384225-003A",
+      "name": "SVT Nyheter Uppsala",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.961+01:00",
+          "second": false
+        }
+      ],
+      "schedulings": {
+        "LP2": {
+          "plannedStart": "2018-02-16T12:00:00+01:00",
+          "plannedEnd": "2018-02-16T13:00:00+01:00",
+          "channel": "LP2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T12:00:00+01:00",
+              "plannedEnd": "2018-02-16T13:00:00+01:00",
+              "timestamp": "2018-02-15T19:50:32.967+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T12:00:00+01:00",
+            "plannedEnd": "2018-02-16T13:00:00+01:00",
+            "timestamp": "2018-02-15T19:50:32.967+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T13:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:32.961+01:00",
+          "second": false
+        }
+      ],
+      "geoBlocked": false
+    },
+    {
+      "id": "1384286-004A",
+      "name": "Senaste nytt från OS",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.373+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "LP2": {
+          "plannedStart": "2018-02-15T10:15:00+01:00",
+          "plannedEnd": "2018-02-15T11:15:00+01:00",
+          "channel": "LP2",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T10:15:00.062+01:00",
+              "plannedEnd": "2018-02-15T11:13:32.862+01:00",
+              "timestamp": "2018-02-15T19:50:27.886+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Running",
+              "started": "2018-02-15T10:15:00.062+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.89+01:00",
+              "prio": 40
+            },
+            {
+              "stateName": "Ended",
+              "ended": "2018-02-15T11:13:32.862+01:00",
+              "note": "",
+              "timestamp": "2018-02-15T19:50:27.916+01:00",
+              "prio": 50
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-15T10:15:00+01:00",
+              "plannedEnd": "2018-02-15T11:15:00+01:00",
+              "timestamp": "2018-02-15T19:50:34.397+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": "2018-02-15T11:13:32.862+01:00",
+          "started": "2018-02-15T10:15:00.062+01:00",
+          "state": {
+            "stateName": "Ended",
+            "ended": "2018-02-15T11:13:32.862+01:00",
+            "note": "",
+            "timestamp": "2018-02-15T19:50:27.916+01:00",
+            "prio": 50
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-15T11:15:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T19:50:34.373+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1385079-025A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:31:02.897+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T06:47:00+01:00",
+          "plannedEnd": "2018-02-16T07:00:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:47:00+01:00",
+              "plannedEnd": "2018-02-16T06:50:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.254+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T06:47:00+01:00",
+              "plannedEnd": "2018-02-16T07:00:00+01:00",
+              "timestamp": "2018-02-15T23:31:02.901+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T06:47:00+01:00",
+            "plannedEnd": "2018-02-16T07:00:00+01:00",
+            "timestamp": "2018-02-15T23:31:02.901+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:00:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:31:02.897+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1385080-025A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:33:03.073+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T07:17:00+01:00",
+          "plannedEnd": "2018-02-16T07:30:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:17:00+01:00",
+              "plannedEnd": "2018-02-16T07:21:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.592+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T07:17:00+01:00",
+              "plannedEnd": "2018-02-16T07:30:00+01:00",
+              "timestamp": "2018-02-15T23:33:03.077+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T07:17:00+01:00",
+            "plannedEnd": "2018-02-16T07:30:00+01:00",
+            "timestamp": "2018-02-15T23:33:03.077+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T07:30:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:33:03.073+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    },
+    {
+      "id": "1385082-025A",
+      "name": "Sportnytt",
+      "privateGeoBlocks": [
+        {
+          "first": "2018-02-15T23:36:43.133+01:00",
+          "second": true
+        }
+      ],
+      "schedulings": {
+        "SVT1": {
+          "plannedStart": "2018-02-16T08:17:00+01:00",
+          "plannedEnd": "2018-02-16T08:30:00+01:00",
+          "channel": "SVT1",
+          "stateJournal": [
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:17:00+01:00",
+              "plannedEnd": "2018-02-16T08:21:00+01:00",
+              "timestamp": "2018-02-15T19:50:31.563+01:00",
+              "prio": 30
+            },
+            {
+              "stateName": "Upcoming",
+              "plannedStart": "2018-02-16T08:17:00+01:00",
+              "plannedEnd": "2018-02-16T08:30:00+01:00",
+              "timestamp": "2018-02-15T23:36:43.143+01:00",
+              "prio": 30
+            }
+          ],
+          "ended": null,
+          "started": null,
+          "state": {
+            "stateName": "Upcoming",
+            "plannedStart": "2018-02-16T08:17:00+01:00",
+            "plannedEnd": "2018-02-16T08:30:00+01:00",
+            "timestamp": "2018-02-15T23:36:43.143+01:00",
+            "prio": 30
+          }
+        }
+      },
+      "liveProgramType": "LIVE",
+      "lastPlannedEnd": "2018-02-16T08:30:00+01:00",
+      "geoBlocks": [
+        {
+          "first": "2018-02-15T23:36:43.133+01:00",
+          "second": true
+        }
+      ],
+      "geoBlocked": true
+    }
+  ]
+}

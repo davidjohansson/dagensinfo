@@ -1,0 +1,8 @@
+query {
+  playContent {
+    singles {
+      id
+      name
+    }
+  }
+}
